@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
+title: Nguyen Dao Huy Kha # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  <br>
+  Business Intelligence Analyst with 1+ year of experience in market research, business intelligence and data analytics and a bachelor's degree in Business Management with First Class Honours.
   <br><br>
-  Second description 
+ Ranked 2nd in the Business Cohort 2023 at University of Greenwich, Ho Chi Minh City.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/hellohuykha/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
