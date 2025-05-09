@@ -1,35 +1,47 @@
-## Portfolio
+## Selected projects in business intelligence and data analytics
 
 ---
 
-### Category Name 1 
+### Project 1
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Description 1.
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### Project 2
+Description 2.
 
 ---
 
-
-
+### Projectt 3
+Description 3.
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+### Project 4
+Description 4.
+
+---
+
+### Project 5
+Description 5.
+
+---
+
+### Project 6
+Description 6.
+
+---
+
+### Project 7
+Description 7.
+
+---
+
+## Skills-based projects
+A selection of smaller projects demonstrating specific data analytics and visualization skills.
+
+- [Project 1](#)
+- [Project 2](#)
+
+---
