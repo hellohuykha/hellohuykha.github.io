@@ -18,7 +18,7 @@ Description 3.
 
 ---
 
-### Location intelligence: Optimising resource allocation
+### Location intelligence: Strategic workforce planning and resource allocation
 Description 4.
 
 ---
