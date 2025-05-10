@@ -2,38 +2,38 @@
 
 ---
 
-### Project 1
+### Marketing mix modeling: Optimising marketing expenditures
 
 Description 1.
 
 ---
 
-### Project 2
+### Difference-in-differences analysis: Measuring the financial impact delivered by a loyalty programme
 Description 2.
 
 ---
 
-### Projectt 3
+### Time intelligence: Revenue growth strategies
 Description 3.
 
 ---
 
-### Project 4
+### Location intelligence: Optimising resource allocation
 Description 4.
 
 ---
 
-### Project 5
+### Behavioural analysis: What drive panic buying tendencies during COVID-19?
 Description 5.
 
 ---
 
-### Project 6
+### Customer churn reduction
 Description 6.
 
 ---
 
-### Project 7
+### Supply chain disruption
 Description 7.
 
 ---
@@ -41,7 +41,8 @@ Description 7.
 ## Skills-based projects
 A selection of smaller projects demonstrating specific data analytics and visualization skills.
 
-- [Project 1](#)
-- [Project 2](#)
+- [Data visualisation](#)
+- [Dashboards](#)
+- [Process automation with Power Automate](#)
 
 ---
