@@ -2,28 +2,28 @@
 
 ---
 
-### Marketing mix modeling: Optimising marketing expenditures
+### Time intelligence
 
 Description 1.
 
 ---
 
-### Difference-in-differences analysis: Measuring the financial impact delivered by a loyalty programme
+### Location intelligence
 Description 2.
 
 ---
 
-### Time intelligence: Revenue growth strategies
+### People intelligence
 Description 3.
 
 ---
 
-### Location intelligence: Strategic workforce planning and resource allocation
+### Marketing mix modeling
 Description 4.
 
 ---
 
-### Behavioural analysis: What drive panic buying tendencies during COVID-19?
+### Difference-in-differences analysis: Measuring the (true) effectiveness of a loyalty programme
 Description 5.
 
 ---
