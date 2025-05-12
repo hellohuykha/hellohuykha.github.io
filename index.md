@@ -2,7 +2,7 @@
 
 ---
 
-### Time intelligence
+### Customer churn reduction
 
 Description 1.
 
