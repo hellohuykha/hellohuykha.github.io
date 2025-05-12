@@ -8,12 +8,12 @@ Description 1.
 
 ---
 
-### Location intelligence
+### Measuring the (true) effectiveness of a loyalty programme with difference-in-differences analysis
 Description 2.
 
 ---
 
-### People intelligence
+### Supply chain disruption
 Description 3.
 
 ---
@@ -23,18 +23,8 @@ Description 4.
 
 ---
 
-### Difference-in-differences analysis: Measuring the (true) effectiveness of a loyalty programme
+### Hochiminhography
 Description 5.
-
----
-
-### Customer churn reduction
-Description 6.
-
----
-
-### Supply chain disruption
-Description 7.
 
 ---
 
@@ -43,6 +33,5 @@ A selection of smaller projects demonstrating specific data analytics and visual
 
 - [Data visualisation](#)
 - [Dashboards](#)
-- [Process automation with Power Automate](#)
 
 ---
