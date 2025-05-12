@@ -2,7 +2,7 @@
 
 ---
 
-### Customer churn reduction
+### Customer churn reduction through predictive analytics
 
 Description 1.
 
