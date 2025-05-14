@@ -5,6 +5,7 @@
 ### Customer churn reduction through predictive analytics
 
 Description 1.
+https://app.powerbi.com/view?r=eyJrIjoiMjNmMmU2OTMtZGM5Zi00YjBhLWJhY2ItMWQ1Yzc3YzIwMDkyIiwidCI6ImZhOWNhMWYwLWU5MTktNGEyYi04NjU3LTZjM2E3NjBiY2NlMCIsImMiOjEwfQ%3D%3D
 
 ---
 
