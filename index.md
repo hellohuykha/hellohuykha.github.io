@@ -38,4 +38,8 @@ Description 5.
 
 ---
 
+### Ho Chi Minh City developer research
+
+<iframe title="HCM Developer Research" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMWNmYjNlNmEtMDg1MC00YzI2LWE4ZmYtZjg2ODEzYWRiZjk4IiwidCI6ImZhOWNhMWYwLWU5MTktNGEyYi04NjU3LTZjM2E3NjBiY2NlMCIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+
 ---
