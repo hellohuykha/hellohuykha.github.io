@@ -5,7 +5,7 @@
 ### Customer churn reduction through predictive analytics
 
 Description 1.
-<iframe title="Airbnb Executive Summary Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjNmMmU2OTMtZGM5Zi00YjBhLWJhY2ItMWQ1Yzc3YzIwMDkyIiwidCI6ImZhOWNhMWYwLWU5MTktNGEyYi04NjU3LTZjM2E3NjBiY2NlMCIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+
 ---
 
 ### Measuring the (true) effectiveness of a loyalty programme with difference-in-differences analysis
@@ -28,10 +28,11 @@ Description 5.
 
 ---
 
-## Skills-based projects
-A selection of smaller projects demonstrating specific data analytics and visualization skills.
+## Selected Power BI dashboards and reports
 
 - [Data visualisation](#)
+<iframe title="Airbnb Executive Summary Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjNmMmU2OTMtZGM5Zi00YjBhLWJhY2ItMWQ1Yzc3YzIwMDkyIiwidCI6ImZhOWNhMWYwLWU5MTktNGEyYi04NjU3LTZjM2E3NjBiY2NlMCIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+
 - [Dashboards](#)
 
 ---
