@@ -2,7 +2,7 @@
 
 ---
 
-### Customer churn reduction
+### Customer churn analysis
 
 Description 1.
 
