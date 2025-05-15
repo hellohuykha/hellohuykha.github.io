@@ -2,7 +2,7 @@
 
 ---
 
-### Customer churn reduction through predictive analytics
+### Customer churn reduction
 
 Description 1.
 
@@ -18,7 +18,7 @@ Description 3.
 
 ---
 
-### Marketing mix modeling
+### Warehouse optimization
 Description 4.
 
 ---
