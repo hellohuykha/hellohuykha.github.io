@@ -1,4 +1,4 @@
-## Nguyen Dao Huy Kha's data analytics projects
+## Nguyen Dao Huy Kha's data analytics and business intelligence projects
 
 Based on a Minimal Jekyll theme for GitHub Pages [1].
 
