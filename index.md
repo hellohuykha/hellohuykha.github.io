@@ -28,10 +28,6 @@ Description 5.
 
 ---
 
-## Selected Power BI dashboards and reports
-
----
-
 ### Airbnb executive summary dashboard
 
 <iframe title="Airbnb Executive Summary Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjNmMmU2OTMtZGM5Zi00YjBhLWJhY2ItMWQ1Yzc3YzIwMDkyIiwidCI6ImZhOWNhMWYwLWU5MTktNGEyYi04NjU3LTZjM2E3NjBiY2NlMCIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
