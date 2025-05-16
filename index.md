@@ -8,8 +8,7 @@ Description 1.
 
 ---
 
-### Measuring the (true) effectiveness of a loyalty programme with difference-in-differences analysis
-Description 2.
+### Heading for the future 2023: Ecommerce customer segmentation
 
 ---
 
@@ -18,7 +17,7 @@ Description 3.
 
 ---
 
-### Warehouse optimization
+### Measuring the (true) effectiveness of a loyalty programme with difference-in-differences analysis
 Description 4.
 
 ---
