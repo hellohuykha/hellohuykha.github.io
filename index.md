@@ -23,7 +23,7 @@ Description 5.
 ---
 
 ## Selected Power BI dashboards
-A selection of Power BI dashboards during my time as a business intelligence analyst at a proptech company.
+A selection of Power BI dashboards during my time as a business intelligence analyst at a proptech company, based on public context-relevant datasets due to proprietary reasons.
 
 ---
 ### Airbnb executive summary dashboard
