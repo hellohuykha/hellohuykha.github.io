@@ -22,8 +22,8 @@ Description 5.
 
 ---
 
-## Selected projects in business intelligence and data analytics
-A selection of smaller projects demonstrating specific data science and ML skills.
+## Selected Power BI dashboards
+A selection of Power BI dashboards during my time as a business intelligence analyst at a proptech company.
 
 ---
 ### Airbnb executive summary dashboard
