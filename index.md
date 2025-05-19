@@ -2,7 +2,7 @@
 
 ---
 
-### Ecommerce customer churn analysis
+### Customer churn analysis
 
 Description 1.
 
