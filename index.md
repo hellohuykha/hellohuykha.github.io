@@ -6,6 +6,8 @@
 
 Description 1.
 
+[View code on Github](https://github.com/hellohuykha/hellohuykha.github.io/tree/master/projects/customer_churn_reduction)
+
 ---
 
 ### Sales analysis
