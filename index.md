@@ -12,6 +12,17 @@ Customer churn is the number of existing customers lost over a given period of t
 
 ---
 
+### Time series analysis
+
+Time series
+
+<img src="images/time_series_1.png?raw=true" />
+<img src="images/time_series_2.png?raw=true" />
+
+[View code on Github](https://github.com/hellohuykha/hellohuykha.github.io/tree/master/projects/time_series_analysis)
+
+---
+
 ### Heading for the Future 2023: Ecommerce sales analysis
 
 Heading for the Future (H4TF) is an innovative hackathon designed to empower young minds to tackle challenges in various fields, including data analytics. In this challenge, participants were tasked with analyzing sales data of a e-commerce business spanning across 4 years to evaluate the company' financial performance as well as customers' preference.
