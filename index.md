@@ -4,7 +4,7 @@
 
 ### Customer churn analysis
 
-Description 1.
+Customer churn is the number of existing customers lost, for any reason at all, over a given period of time. It provides companies with an understanding of customer satisfaction and customer loyalty, and can identify potential changes in a company’s bottom line. In this project, I explored the drivers of increased customer churn rates and conduct A/B testing of a potential intervention to at-risk customers.
 
 [View code on Github](https://github.com/hellohuykha/hellohuykha.github.io/tree/master/projects/customer_churn_reduction)
 
