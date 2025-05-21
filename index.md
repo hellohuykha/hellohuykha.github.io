@@ -54,6 +54,8 @@ Description 5.
 
 ---
 
-### Dashboard 3
+### Automating process and capturing timestamps with Power Automate
+
+<img src="images/power_automate.gif?raw=true" />
 
 ---
