@@ -41,7 +41,10 @@ I took part in this challenge, using SQL to calculate total revenue by product, 
 ---
 
 ### Geospatial analysis of Ho Chi Minh City population
+
 Description 5.
+
+<img src="images/hcm_population.png?raw=true" />
 
 ---
 ### Airbnb executive summary dashboard
