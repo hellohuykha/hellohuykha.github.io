@@ -53,10 +53,6 @@ Description 5.
 
 ---
 
-### Deal acquisition tracking
-
----
-
 ### Automating capturing timestamps with Power Automate
 
 <img src="images/power_automate.gif?raw=true" />
