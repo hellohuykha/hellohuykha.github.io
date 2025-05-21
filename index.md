@@ -1,22 +1,21 @@
 ## Selected projects in business intelligence and data analytics
 
 ---
-### Sales report
+### Retail sales report
 
 <iframe title="Sales report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNjUzZTJhNDgtYzhlMS00MjJkLTgwZmUtNTFjYmE3Y2JmYzU4IiwidCI6ImZhOWNhMWYwLWU5MTktNGEyYi04NjU3LTZjM2E3NjBiY2NlMCIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
 
+---
+### Hospitality executive summary dashboard
+
+<iframe title="Airbnb Executive Summary Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjNmMmU2OTMtZGM5Zi00YjBhLWJhY2ItMWQ1Yzc3YzIwMDkyIiwidCI6ImZhOWNhMWYwLWU5MTktNGEyYi04NjU3LTZjM2E3NjBiY2NlMCIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
 
 ---
 
-### Sales analytics
+### Sales forecast and animation
 
 <img src="images/sales_animated.gif?raw=true" />
 <img src="images/sales_forecast.png?raw=true" />
-
----
-### Airbnb executive summary dashboard
-
-<iframe title="Airbnb Executive Summary Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjNmMmU2OTMtZGM5Zi00YjBhLWJhY2ItMWQ1Yzc3YzIwMDkyIiwidCI6ImZhOWNhMWYwLWU5MTktNGEyYi04NjU3LTZjM2E3NjBiY2NlMCIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
 
 ---
 
