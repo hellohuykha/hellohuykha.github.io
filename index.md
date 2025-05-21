@@ -54,7 +54,7 @@ Description 5.
 
 ---
 
-### Automating process and capturing timestamps with Power Automate
+### Automating capturing timestamps with Power Automate
 
 <img src="images/power_automate.gif?raw=true" />
 
