@@ -14,6 +14,11 @@
 <img src="images/sales_forecast.png?raw=true" />
 
 ---
+### Airbnb executive summary dashboard
+
+<iframe title="Airbnb Executive Summary Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjNmMmU2OTMtZGM5Zi00YjBhLWJhY2ItMWQ1Yzc3YzIwMDkyIiwidCI6ImZhOWNhMWYwLWU5MTktNGEyYi04NjU3LTZjM2E3NjBiY2NlMCIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+
+---
 
 ### Customer churn analysis
 
@@ -51,11 +56,6 @@ I took part in this challenge, using SQL to calculate total revenue by product, 
 Description 5.
 
 <img src="images/hcm_population.png?raw=true" />
-
----
-### Airbnb executive summary dashboard
-
-<iframe title="Airbnb Executive Summary Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjNmMmU2OTMtZGM5Zi00YjBhLWJhY2ItMWQ1Yzc3YzIwMDkyIiwidCI6ImZhOWNhMWYwLWU5MTktNGEyYi04NjU3LTZjM2E3NjBiY2NlMCIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
 
 ---
 
