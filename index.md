@@ -45,8 +45,16 @@ Description 5.
 
 ---
 
-### Automating capturing timestamps with Power Automate
+### Automating updating progress and capturing timestamps of stage changes with Power Automate
 
 <img src="images/power_automate.gif?raw=true" />
+
+---
+
+### Marketing mix modeling
+
+Marketing mix modeling is a a method for statistically estimating the business contribution of media and marketing activities, enableing the diagnosis, prediction and prescription of media and marketing activities based on business contribution. It's a interesting concept I learn from a webinar by Decision Lab.
+
+This page is currently blank. I put it here as a note to remind myself to gather necessary knowledge and build a project about it later.
 
 ---
