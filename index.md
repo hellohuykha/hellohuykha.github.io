@@ -31,15 +31,13 @@ Customer churn is the number of existing customers lost over a given period of t
 
 Heading for the Future (H4TF) is an innovative hackathon designed to empower young minds to tackle challenges in various fields, including data analytics. In this challenge, participants were tasked with analyzing sales data of a e-commerce business spanning across 4 years to evaluate the company' financial performance as well as customers' preference.
 
-I took part in this challenge, using SQL to calculate total revenue by product, by country, and total number of repeated customers, etc, and later created a financial performance tracking dashboard.
+I took part in this challenge, using SQL to calculate total revenue by product, by country, and total number of repeated customers, etc.
 
 [View syntax on Github](https://github.com/hellohuykha/hellohuykha.github.io/tree/master/projects/ecommerce_sales_analysis)
 
 ---
 
 ### Geospatial analysis of Ho Chi Minh City population
-
-Description 5.
 
 <img src="images/hcm_population.png?raw=true" />
 
