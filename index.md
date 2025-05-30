@@ -1,21 +1,4 @@
-## Selected projects in business intelligence and data analytics
-
----
-### Retail sales report
-
-<iframe title="Sales report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNjUzZTJhNDgtYzhlMS00MjJkLTgwZmUtNTFjYmE3Y2JmYzU4IiwidCI6ImZhOWNhMWYwLWU5MTktNGEyYi04NjU3LTZjM2E3NjBiY2NlMCIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
-
----
-### Hospitality executive summary dashboard
-
-<iframe title="Airbnb Executive Summary Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjNmMmU2OTMtZGM5Zi00YjBhLWJhY2ItMWQ1Yzc3YzIwMDkyIiwidCI6ImZhOWNhMWYwLWU5MTktNGEyYi04NjU3LTZjM2E3NjBiY2NlMCIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
-
----
-
-### Sales forecast and animation
-
-<img src="images/sales_animated.gif?raw=true" />
-<img src="images/sales_forecast.png?raw=true" />
+## Selected projects in data analytics
 
 ---
 
@@ -36,10 +19,26 @@ I took part in this challenge, using SQL to calculate total revenue by product, 
 [View syntax on Github](https://github.com/hellohuykha/hellohuykha.github.io/tree/master/projects/ecommerce_sales_analysis)
 
 ---
+## Select Power BI dashboards
 
-### Geospatial analysis of Ho Chi Minh City population
+---
 
-<img src="images/hcm_population.png?raw=true" />
+### Retail sales report
+
+<iframe title="Sales report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNjUzZTJhNDgtYzhlMS00MjJkLTgwZmUtNTFjYmE3Y2JmYzU4IiwidCI6ImZhOWNhMWYwLWU5MTktNGEyYi04NjU3LTZjM2E3NjBiY2NlMCIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+
+---
+
+### Hospitality executive summary dashboard
+
+<iframe title="Airbnb Executive Summary Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjNmMmU2OTMtZGM5Zi00YjBhLWJhY2ItMWQ1Yzc3YzIwMDkyIiwidCI6ImZhOWNhMWYwLWU5MTktNGEyYi04NjU3LTZjM2E3NjBiY2NlMCIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+
+---
+
+### Sales forecast and animation
+
+<img src="images/sales_animated.gif?raw=true" />
+<img src="images/sales_forecast.png?raw=true" />
 
 ---
 
