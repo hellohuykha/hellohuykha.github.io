@@ -19,6 +19,15 @@ I took part in this challenge, using SQL to calculate total revenue by product, 
 [View syntax on Github](https://github.com/hellohuykha/hellohuykha.github.io/tree/master/projects/ecommerce_sales_analysis)
 
 ---
+
+### Marketing mix modeling
+
+Marketing mix modeling is a a method for statistically estimating the business contribution of media and marketing activities, enableing the diagnosis, prediction and prescription of media and marketing activities based on business contribution. It's a interesting concept I learn from a webinar by Decision Lab.
+
+This page is currently blank. I put it here as a note to remind myself to gather necessary knowledge and build a project about it later.
+
+---
+
 ## Select Power BI dashboards
 
 ---
@@ -39,13 +48,5 @@ I took part in this challenge, using SQL to calculate total revenue by product, 
 
 <img src="images/sales_animated.gif?raw=true" />
 <img src="images/sales_forecast.png?raw=true" />
-
----
-
-### Marketing mix modeling
-
-Marketing mix modeling is a a method for statistically estimating the business contribution of media and marketing activities, enableing the diagnosis, prediction and prescription of media and marketing activities based on business contribution. It's a interesting concept I learn from a webinar by Decision Lab.
-
-This page is currently blank. I put it here as a note to remind myself to gather necessary knowledge and build a project about it later.
 
 ---
