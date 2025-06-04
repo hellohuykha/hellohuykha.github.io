@@ -6,7 +6,7 @@
 
 Customer churn is the number of existing customers lost over a given period of time. It provides companies with an understanding of customer satisfaction and customer loyalty, and can identify potential changes in a company’s bottom line. In this project, I explored the drivers of increased customer churn rates and create a customer churn tracking dashboard.
 
-[View code on Github](https://github.com/hellohuykha/hellohuykha.github.io/tree/master/projects/customer_churn_reduction)
+[View code on Github](https://github.com/hellohuykha/customer-churn)
 
 ---
 
